@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/bloomz-3b	 Pattern: Question: What does the person mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 188, incorrect: 202, total: 390	correct %: 0.48205128205128206
+####
+ Model name: bigscience/bloomz-3b	 Group1: [86, 78], 0.524390243902439	Group2: [102, 124], 0.45132743362831856	Mem frac: 0.5794871794871795####
+ Model name: bigscience/bloomz-3b	Language: ru	Average acc %: 0.48205128205128206	Max acc %: 0.48205128205128206
+####

@@ -1,0 +1,13 @@
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: proverb: {proverb}	correct: 281, incorrect: 53, total: 334	correct %: 0.8413173652694611
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: complete this proverb: {proverb}	correct: 284, incorrect: 50, total: 334	correct %: 0.8502994011976048
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: finish the proverb: {proverb}	correct: 284, incorrect: 50, total: 334	correct %: 0.8502994011976048
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 281, incorrect: 53, total: 334	correct %: 0.8413173652694611
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: what's the last word of this proverb: {proverb}	correct: 281, incorrect: 53, total: 334	correct %: 0.8413173652694611
+####
+ Model name: bigscience/bloomz-7b1	Language: zh	Average acc %: 0.8449101796407186	Mem: 0.8682634730538922	Max acc %: 0.8502994011976048
+####

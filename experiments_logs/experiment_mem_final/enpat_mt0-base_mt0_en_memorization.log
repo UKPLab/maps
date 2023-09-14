@@ -1,0 +1,26 @@
+####
+ Model name: bigscience/mt0-base	 Pattern: proverb: {proverb}	correct: 16, incorrect: 378, total: 394	correct %: 0.04060913705583756
+####
+ Model name: bigscience/mt0-base	 Pattern: complete this proverb: {proverb}	correct: 21, incorrect: 373, total: 394	correct %: 0.0532994923857868
+####
+ Model name: bigscience/mt0-base	 Pattern: finish the proverb: {proverb}	correct: 16, incorrect: 378, total: 394	correct %: 0.04060913705583756
+####
+ Model name: bigscience/mt0-base	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 14, incorrect: 380, total: 394	correct %: 0.03553299492385787
+####
+ Model name: bigscience/mt0-base	 Pattern: what's the last word of this proverb: {proverb}	correct: 15, incorrect: 379, total: 394	correct %: 0.03807106598984772
+####
+ Model name: bigscience/mt0-base	Language: en	Average acc %: 0.04162436548223351	Mem: 0.05583756345177665	Max acc %: 0.0532994923857868
+####
+####
+ Model name: bigscience/mt0-base	 Pattern: proverb: {proverb}	correct: 16, incorrect: 378, total: 394	correct %: 0.04060913705583756
+####
+ Model name: bigscience/mt0-base	 Pattern: complete this proverb: {proverb}	correct: 21, incorrect: 373, total: 394	correct %: 0.0532994923857868
+####
+ Model name: bigscience/mt0-base	 Pattern: finish the proverb: {proverb}	correct: 16, incorrect: 378, total: 394	correct %: 0.04060913705583756
+####
+ Model name: bigscience/mt0-base	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 14, incorrect: 380, total: 394	correct %: 0.03553299492385787
+####
+ Model name: bigscience/mt0-base	 Pattern: what's the last word of this proverb: {proverb}	correct: 15, incorrect: 379, total: 394	correct %: 0.03807106598984772
+####
+ Model name: bigscience/mt0-base	Language: en	Average acc %: 0.04162436548223351	Mem: 0.05583756345177665	Max acc %: 0.0532994923857868
+####

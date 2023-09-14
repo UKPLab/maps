@@ -1,0 +1,10 @@
+####
+ Model name: xlm-roberta-base	 Pattern: Question: What does the person mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 171, incorrect: 170, total: 341	correct %: 0.501466275659824
+####
+ Model name: xlm-roberta-base	 Group1: [40, 35], 0.5333333333333333	Group2: [131, 135], 0.4924812030075188	Mem frac: 0.7800586510263929####
+ Model name: xlm-roberta-base	Language: id	Average acc %: 0.501466275659824	Max acc %: 0.501466275659824
+####

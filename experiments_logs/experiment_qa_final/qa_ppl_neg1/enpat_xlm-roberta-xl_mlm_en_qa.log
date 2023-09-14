@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: Question: Which answer is contrary to what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 191, incorrect: 203, total: 394	correct %: 0.4847715736040609
+####
+ Model name: facebook/xlm-roberta-xl	 Group1: [80, 97], 0.4519774011299435	Group2: [111, 106], 0.511520737327189	Mem frac: 0.550761421319797####
+ Model name: facebook/xlm-roberta-xl	Language: en	Average acc %: 0.4847715736040609	Max acc %: 0.4847715736040609
+####

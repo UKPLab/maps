@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xglm-7.5B	 Pattern: Question: Pick the wrong answer to what the person means by the proverb.
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 167, incorrect: 174, total: 341	correct %: 0.4897360703812317
+####
+ Model name: facebook/xglm-7.5B	 Group1: [35, 40], 0.4666666666666667	Group2: [132, 134], 0.49624060150375937	Mem frac: 0.7800586510263929####
+ Model name: facebook/xglm-7.5B	Language: id	Average acc %: 0.4897360703812317	Max acc %: 0.4897360703812317
+####

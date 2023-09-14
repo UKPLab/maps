@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/mt0-xxl	 Pattern: Question: Which answer is impossible as the interpretation of what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 147, incorrect: 193, total: 340	correct %: 0.4323529411764706
+####
+ Model name: bigscience/mt0-xxl	 Group1: [36, 32], 0.5294117647058824	Group2: [111, 161], 0.40808823529411764	Mem frac: 0.8####
+ Model name: bigscience/mt0-xxl	Language: bn	Average acc %: 0.4323529411764706	Max acc %: 0.4323529411764706
+####

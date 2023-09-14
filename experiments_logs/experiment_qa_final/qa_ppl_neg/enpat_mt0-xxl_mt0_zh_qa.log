@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/mt0-xxl	 Pattern: Question: What does the person not mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 222, incorrect: 112, total: 334	correct %: 0.6646706586826348
+####
+ Model name: bigscience/mt0-xxl	 Group1: [134, 58], 0.6979166666666666	Group2: [88, 54], 0.6197183098591549	Mem frac: 0.4251497005988024####
+ Model name: bigscience/mt0-xxl	Language: zh	Average acc %: 0.6646706586826348	Max acc %: 0.6646706586826348
+####

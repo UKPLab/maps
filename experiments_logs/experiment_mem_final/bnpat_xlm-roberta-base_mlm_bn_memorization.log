@@ -1,0 +1,13 @@
+####
+ Model name: xlm-roberta-base	 Pattern: প্রবাদ: {proverb}	correct: 18, incorrect: 322, total: 340	correct %: 0.052941176470588235
+####
+ Model name: xlm-roberta-base	 Pattern: এই প্রবাদটি সম্পূর্ণ করো: {proverb}	correct: 16, incorrect: 324, total: 340	correct %: 0.047058823529411764
+####
+ Model name: xlm-roberta-base	 Pattern: প্রবাদটি শেষ করো: {proverb}	correct: 19, incorrect: 321, total: 340	correct %: 0.05588235294117647
+####
+ Model name: xlm-roberta-base	 Pattern: এই প্রবাদের শেষে কি অনুপস্থিত: {proverb}	correct: 11, incorrect: 329, total: 340	correct %: 0.03235294117647059
+####
+ Model name: xlm-roberta-base	 Pattern: এই প্রবাদের শেষ শব্দ কি: {proverb}	correct: 11, incorrect: 329, total: 340	correct %: 0.03235294117647059
+####
+ Model name: xlm-roberta-base	Language: bn	Average acc %: 0.044117647058823525	Mem: 0.06470588235294118	Max acc %: 0.05588235294117647
+####

@@ -1,0 +1,13 @@
+####
+ Model name: xlm-roberta-base	 Pattern: пословицу: {proverb}	correct: 13, incorrect: 377, total: 390	correct %: 0.03333333333333333
+####
+ Model name: xlm-roberta-base	 Pattern: Завершите эту пословицу: {proverb}	correct: 10, incorrect: 380, total: 390	correct %: 0.02564102564102564
+####
+ Model name: xlm-roberta-base	 Pattern: Закончите пословицу: {proverb}	correct: 10, incorrect: 380, total: 390	correct %: 0.02564102564102564
+####
+ Model name: xlm-roberta-base	 Pattern: Что отсутствует в конце этой пословицы: {proverb}	correct: 8, incorrect: 382, total: 390	correct %: 0.020512820512820513
+####
+ Model name: xlm-roberta-base	 Pattern: Какое последнее слово в этой пословице: {proverb}	correct: 9, incorrect: 381, total: 390	correct %: 0.023076923076923078
+####
+ Model name: xlm-roberta-base	Language: ru	Average acc %: 0.02564102564102564	Mem: 0.038461538461538464	Max acc %: 0.03333333333333333
+####

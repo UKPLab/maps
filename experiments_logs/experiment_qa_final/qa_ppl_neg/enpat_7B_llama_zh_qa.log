@@ -1,0 +1,10 @@
+####
+ Model name: llama-2-hf/7B	 Pattern: Question: What does the person not mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 165, incorrect: 169, total: 334	correct %: 0.4940119760479042
+####
+ Model name: llama-2-hf/7B	 Group1: [101, 91], 0.5260416666666666	Group2: [64, 78], 0.4507042253521127	Mem frac: 0.4251497005988024####
+ Model name: llama-2-hf/7B	Language: zh	Average acc %: 0.4940119760479042	Max acc %: 0.4940119760479042
+####

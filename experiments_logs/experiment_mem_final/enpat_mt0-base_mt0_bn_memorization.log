@@ -1,0 +1,13 @@
+####
+ Model name: bigscience/mt0-base	 Pattern: proverb: {proverb}	correct: 7, incorrect: 333, total: 340	correct %: 0.020588235294117647
+####
+ Model name: bigscience/mt0-base	 Pattern: complete this proverb: {proverb}	correct: 9, incorrect: 331, total: 340	correct %: 0.026470588235294117
+####
+ Model name: bigscience/mt0-base	 Pattern: finish the proverb: {proverb}	correct: 9, incorrect: 331, total: 340	correct %: 0.026470588235294117
+####
+ Model name: bigscience/mt0-base	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 11, incorrect: 329, total: 340	correct %: 0.03235294117647059
+####
+ Model name: bigscience/mt0-base	 Pattern: what's the last word of this proverb: {proverb}	correct: 8, incorrect: 332, total: 340	correct %: 0.023529411764705882
+####
+ Model name: bigscience/mt0-base	Language: bn	Average acc %: 0.025882352941176474	Mem: 0.03529411764705882	Max acc %: 0.03235294117647059
+####

@@ -1,0 +1,10 @@
+####
+ Model name: xlm-roberta-large	 Pattern: Question: Which answer is impossible as the interpretation of what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 192, incorrect: 198, total: 390	correct %: 0.49230769230769234
+####
+ Model name: xlm-roberta-large	 Group1: [80, 84], 0.4878048780487805	Group2: [112, 114], 0.49557522123893805	Mem frac: 0.5794871794871795####
+ Model name: xlm-roberta-large	Language: ru	Average acc %: 0.49230769230769234	Max acc %: 0.49230769230769234
+####

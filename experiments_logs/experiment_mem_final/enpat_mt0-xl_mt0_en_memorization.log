@@ -1,0 +1,13 @@
+####
+ Model name: bigscience/mt0-xl	 Pattern: proverb: {proverb}	correct: 63, incorrect: 331, total: 394	correct %: 0.1598984771573604
+####
+ Model name: bigscience/mt0-xl	 Pattern: complete this proverb: {proverb}	correct: 59, incorrect: 335, total: 394	correct %: 0.14974619289340102
+####
+ Model name: bigscience/mt0-xl	 Pattern: finish the proverb: {proverb}	correct: 59, incorrect: 335, total: 394	correct %: 0.14974619289340102
+####
+ Model name: bigscience/mt0-xl	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 44, incorrect: 350, total: 394	correct %: 0.1116751269035533
+####
+ Model name: bigscience/mt0-xl	 Pattern: what's the last word of this proverb: {proverb}	correct: 71, incorrect: 323, total: 394	correct %: 0.1802030456852792
+####
+ Model name: bigscience/mt0-xl	Language: en	Average acc %: 0.150253807106599	Mem: 0.22081218274111675	Max acc %: 0.1802030456852792
+####

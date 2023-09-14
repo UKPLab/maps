@@ -1,0 +1,28 @@
+####
+ Model name: llama-2-hf/7B	 Pattern: proverb: {proverb}	correct: 55, incorrect: 279, total: 334	correct %: 0.16467065868263472
+####
+ Model name: llama-2-hf/7B	 Pattern: complete this proverb: {proverb}	correct: 54, incorrect: 280, total: 334	correct %: 0.16167664670658682
+####
+ Model name: llama-2-hf/7B	 Pattern: finish the proverb: {proverb}	correct: 50, incorrect: 284, total: 334	correct %: 0.1497005988023952
+####
+ Model name: llama-2-hf/7B	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 51, incorrect: 283, total: 334	correct %: 0.15269461077844312
+####
+ Model name: llama-2-hf/7B	 Pattern: what's the last word of this proverb: {proverb}	correct: 56, incorrect: 278, total: 334	correct %: 0.16766467065868262
+####
+ Model name: llama-2-hf/7B	Language: zh	Average acc %: 0.1592814371257485
+####
+Max acc %: 0.16766467065868262
+####
+####
+ Model name: llama-2-hf/7B	 Pattern: proverb: {proverb}	correct: 57, incorrect: 277, total: 334	correct %: 0.17065868263473055
+####
+ Model name: llama-2-hf/7B	 Pattern: complete this proverb: {proverb}	correct: 56, incorrect: 278, total: 334	correct %: 0.16766467065868262
+####
+ Model name: llama-2-hf/7B	 Pattern: finish the proverb: {proverb}	correct: 52, incorrect: 282, total: 334	correct %: 0.15568862275449102
+####
+ Model name: llama-2-hf/7B	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 53, incorrect: 281, total: 334	correct %: 0.15868263473053892
+####
+ Model name: llama-2-hf/7B	 Pattern: what's the last word of this proverb: {proverb}	correct: 58, incorrect: 276, total: 334	correct %: 0.17365269461077845
+####
+ Model name: llama-2-hf/7B	Language: zh	Average acc %: 0.16526946107784432	Mem: 0.19461077844311378	Max acc %: 0.17365269461077845
+####

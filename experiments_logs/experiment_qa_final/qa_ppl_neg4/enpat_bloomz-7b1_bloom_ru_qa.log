@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: Question: Pick the wrong answer to what the person means by the proverb.
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 174, incorrect: 216, total: 390	correct %: 0.4461538461538462
+####
+ Model name: bigscience/bloomz-7b1	 Group1: [69, 95], 0.42073170731707316	Group2: [105, 121], 0.4646017699115044	Mem frac: 0.5794871794871795####
+ Model name: bigscience/bloomz-7b1	Language: ru	Average acc %: 0.4461538461538462	Max acc %: 0.4461538461538462
+####

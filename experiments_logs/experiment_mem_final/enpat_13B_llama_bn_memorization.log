@@ -1,0 +1,13 @@
+####
+ Model name: llama-2-hf/13B	 Pattern: proverb: {proverb}	correct: 2, incorrect: 338, total: 340	correct %: 0.0058823529411764705
+####
+ Model name: llama-2-hf/13B	 Pattern: complete this proverb: {proverb}	correct: 2, incorrect: 338, total: 340	correct %: 0.0058823529411764705
+####
+ Model name: llama-2-hf/13B	 Pattern: finish the proverb: {proverb}	correct: 2, incorrect: 338, total: 340	correct %: 0.0058823529411764705
+####
+ Model name: llama-2-hf/13B	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 1, incorrect: 339, total: 340	correct %: 0.0029411764705882353
+####
+ Model name: llama-2-hf/13B	 Pattern: what's the last word of this proverb: {proverb}	correct: 2, incorrect: 338, total: 340	correct %: 0.0058823529411764705
+####
+ Model name: llama-2-hf/13B	Language: bn	Average acc %: 0.005294117647058823	Mem: 0.0058823529411764705	Max acc %: 0.0058823529411764705
+####

@@ -1,0 +1,13 @@
+####
+ Model name: xlm-roberta-base	 Pattern: Sprichwort: {proverb}	correct: 23, incorrect: 311, total: 334	correct %: 0.0688622754491018
+####
+ Model name: xlm-roberta-base	 Pattern: Vervollständige dieses Sprichwort: {proverb}	correct: 18, incorrect: 316, total: 334	correct %: 0.05389221556886228
+####
+ Model name: xlm-roberta-base	 Pattern: Beende das Sprichwort: {proverb}	correct: 20, incorrect: 314, total: 334	correct %: 0.059880239520958084
+####
+ Model name: xlm-roberta-base	 Pattern: Was fehlt am Ende dieses Sprichworts: {proverb}	correct: 21, incorrect: 313, total: 334	correct %: 0.06287425149700598
+####
+ Model name: xlm-roberta-base	 Pattern: Was ist das letzte Wort dieses Sprichworts: {proverb}	correct: 17, incorrect: 317, total: 334	correct %: 0.05089820359281437
+####
+ Model name: xlm-roberta-base	Language: de	Average acc %: 0.0592814371257485	Mem: 0.07784431137724551	Max acc %: 0.0688622754491018
+####

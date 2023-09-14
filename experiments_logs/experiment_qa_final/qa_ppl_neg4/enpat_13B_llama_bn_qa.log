@@ -1,0 +1,10 @@
+####
+ Model name: llama-2-hf/13B	 Pattern: Question: Pick the wrong answer to what the person means by the proverb.
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 172, incorrect: 168, total: 340	correct %: 0.5058823529411764
+####
+ Model name: llama-2-hf/13B	 Group1: [34, 34], 0.5	Group2: [138, 134], 0.5073529411764706	Mem frac: 0.8####
+ Model name: llama-2-hf/13B	Language: bn	Average acc %: 0.5058823529411764	Max acc %: 0.5058823529411764
+####

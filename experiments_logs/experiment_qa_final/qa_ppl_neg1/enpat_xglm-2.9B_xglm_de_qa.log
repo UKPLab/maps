@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xglm-2.9B	 Pattern: Question: Which answer is contrary to what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 172, incorrect: 162, total: 334	correct %: 0.5149700598802395
+####
+ Model name: facebook/xglm-2.9B	 Group1: [79, 72], 0.5231788079470199	Group2: [93, 90], 0.5081967213114754	Mem frac: 0.5479041916167665####
+ Model name: facebook/xglm-2.9B	Language: de	Average acc %: 0.5149700598802395	Max acc %: 0.5149700598802395
+####

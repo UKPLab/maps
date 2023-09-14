@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xglm-7.5B	 Pattern: Question: Which answer is impossible as the interpretation of what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 168, incorrect: 166, total: 334	correct %: 0.5029940119760479
+####
+ Model name: facebook/xglm-7.5B	 Group1: [77, 74], 0.5099337748344371	Group2: [91, 92], 0.4972677595628415	Mem frac: 0.5479041916167665####
+ Model name: facebook/xglm-7.5B	Language: de	Average acc %: 0.5029940119760479	Max acc %: 0.5029940119760479
+####

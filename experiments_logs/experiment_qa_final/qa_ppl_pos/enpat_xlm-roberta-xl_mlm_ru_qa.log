@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: Question: What does the person mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 203, incorrect: 187, total: 390	correct %: 0.5205128205128206
+####
+ Model name: facebook/xlm-roberta-xl	 Group1: [78, 86], 0.47560975609756095	Group2: [125, 101], 0.5530973451327433	Mem frac: 0.5794871794871795####
+ Model name: facebook/xlm-roberta-xl	Language: ru	Average acc %: 0.5205128205128206	Max acc %: 0.5205128205128206
+####

@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/mt0-base	 Pattern: Question: What does the person mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 171, incorrect: 169, total: 340	correct %: 0.5029411764705882
+####
+ Model name: bigscience/mt0-base	 Group1: [36, 32], 0.5294117647058824	Group2: [135, 137], 0.4963235294117647	Mem frac: 0.8####
+ Model name: bigscience/mt0-base	Language: bn	Average acc %: 0.5029411764705882	Max acc %: 0.5029411764705882
+####

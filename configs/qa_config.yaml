@@ -1,0 +1,9 @@
+data_path: maps/dataset/
+lang: [zh,en]
+model_size: mt0
+output_path: maps/results/
+pattern_set: qa_ppl_pos
+n_shot: 5
+trans_test: false
+mem_file: ""
+seed: 42

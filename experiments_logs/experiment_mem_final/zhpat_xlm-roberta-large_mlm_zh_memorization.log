@@ -1,0 +1,13 @@
+####
+ Model name: xlm-roberta-large	 Pattern: 谚语: {proverb}	correct: 103, incorrect: 231, total: 334	correct %: 0.3083832335329341
+####
+ Model name: xlm-roberta-large	 Pattern: 补全这个谚语：{proverb}	correct: 104, incorrect: 230, total: 334	correct %: 0.31137724550898205
+####
+ Model name: xlm-roberta-large	 Pattern: 完成这个谚语：{proverb}	correct: 89, incorrect: 245, total: 334	correct %: 0.26646706586826346
+####
+ Model name: xlm-roberta-large	 Pattern: 这个谚语结尾缺什么字：{proverb}	correct: 95, incorrect: 239, total: 334	correct %: 0.2844311377245509
+####
+ Model name: xlm-roberta-large	 Pattern: 这个谚语的最后一个字是什么：{proverb}	correct: 84, incorrect: 250, total: 334	correct %: 0.25149700598802394
+####
+ Model name: xlm-roberta-large	Language: zh	Average acc %: 0.2844311377245509	Mem: 0.344311377245509	Max acc %: 0.31137724550898205
+####

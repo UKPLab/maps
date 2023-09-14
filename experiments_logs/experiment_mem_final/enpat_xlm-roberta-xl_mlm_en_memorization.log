@@ -1,0 +1,13 @@
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: proverb: {proverb}	correct: 142, incorrect: 252, total: 394	correct %: 0.3604060913705584
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: complete this proverb: {proverb}	correct: 158, incorrect: 236, total: 394	correct %: 0.4010152284263959
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: finish the proverb: {proverb}	correct: 161, incorrect: 233, total: 394	correct %: 0.4086294416243655
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 155, incorrect: 239, total: 394	correct %: 0.3934010152284264
+####
+ Model name: facebook/xlm-roberta-xl	 Pattern: what's the last word of this proverb: {proverb}	correct: 155, incorrect: 239, total: 394	correct %: 0.3934010152284264
+####
+ Model name: facebook/xlm-roberta-xl	Language: en	Average acc %: 0.3913705583756345	Mem: 0.434010152284264	Max acc %: 0.4086294416243655
+####

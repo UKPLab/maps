@@ -1,0 +1,10 @@
+####
+ Model name: llama-2-hf/7B	 Pattern: Question: What does the person mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 201, incorrect: 189, total: 390	correct %: 0.5153846153846153
+####
+ Model name: llama-2-hf/7B	 Group1: [90, 74], 0.5487804878048781	Group2: [111, 115], 0.4911504424778761	Mem frac: 0.5794871794871795####
+ Model name: llama-2-hf/7B	Language: ru	Average acc %: 0.5153846153846153	Max acc %: 0.5153846153846153
+####

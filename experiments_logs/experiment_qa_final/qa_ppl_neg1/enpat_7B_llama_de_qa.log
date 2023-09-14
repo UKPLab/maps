@@ -1,0 +1,10 @@
+####
+ Model name: llama-2-hf/7B	 Pattern: Question: Which answer is contrary to what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 162, incorrect: 172, total: 334	correct %: 0.48502994011976047
+####
+ Model name: llama-2-hf/7B	 Group1: [77, 74], 0.5099337748344371	Group2: [85, 98], 0.4644808743169399	Mem frac: 0.5479041916167665####
+ Model name: llama-2-hf/7B	Language: de	Average acc %: 0.48502994011976047	Max acc %: 0.48502994011976047
+####

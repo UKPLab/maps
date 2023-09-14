@@ -1,0 +1,10 @@
+####
+ Model name: llama-2-hf/7B	 Pattern: Question: Which answer is impossible as the interpretation of what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 172, incorrect: 162, total: 334	correct %: 0.5149700598802395
+####
+ Model name: llama-2-hf/7B	 Group1: [100, 92], 0.5208333333333334	Group2: [72, 70], 0.5070422535211268	Mem frac: 0.4251497005988024####
+ Model name: llama-2-hf/7B	Language: zh	Average acc %: 0.5149700598802395	Max acc %: 0.5149700598802395
+####

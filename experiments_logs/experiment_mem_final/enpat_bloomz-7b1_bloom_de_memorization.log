@@ -1,0 +1,13 @@
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: proverb: {proverb}	correct: 12, incorrect: 322, total: 334	correct %: 0.03592814371257485
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: complete this proverb: {proverb}	correct: 12, incorrect: 322, total: 334	correct %: 0.03592814371257485
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: finish the proverb: {proverb}	correct: 11, incorrect: 323, total: 334	correct %: 0.03293413173652695
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 8, incorrect: 326, total: 334	correct %: 0.023952095808383235
+####
+ Model name: bigscience/bloomz-7b1	 Pattern: what's the last word of this proverb: {proverb}	correct: 9, incorrect: 325, total: 334	correct %: 0.02694610778443114
+####
+ Model name: bigscience/bloomz-7b1	Language: de	Average acc %: 0.0311377245508982	Mem: 0.03592814371257485	Max acc %: 0.03592814371257485
+####

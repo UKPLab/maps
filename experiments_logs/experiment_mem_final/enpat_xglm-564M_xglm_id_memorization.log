@@ -1,0 +1,13 @@
+####
+ Model name: facebook/xglm-564M	 Pattern: proverb: {proverb}	correct: 9, incorrect: 332, total: 341	correct %: 0.026392961876832845
+####
+ Model name: facebook/xglm-564M	 Pattern: complete this proverb: {proverb}	correct: 10, incorrect: 331, total: 341	correct %: 0.02932551319648094
+####
+ Model name: facebook/xglm-564M	 Pattern: finish the proverb: {proverb}	correct: 10, incorrect: 331, total: 341	correct %: 0.02932551319648094
+####
+ Model name: facebook/xglm-564M	 Pattern: what's missing at the end of this proverb: {proverb}	correct: 10, incorrect: 331, total: 341	correct %: 0.02932551319648094
+####
+ Model name: facebook/xglm-564M	 Pattern: what's the last word of this proverb: {proverb}	correct: 11, incorrect: 330, total: 341	correct %: 0.03225806451612903
+####
+ Model name: facebook/xglm-564M	Language: id	Average acc %: 0.02932551319648094	Mem: 0.03812316715542522	Max acc %: 0.03225806451612903
+####

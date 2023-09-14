@@ -1,0 +1,6 @@
+data_path: maps/dataset/
+lang: [en,id,de,ru,zh,bn]
+model_size: m
+output_path: maps/results/
+pattern_set: memorization
+reverse: false

@@ -1,0 +1,13 @@
+####
+ Model name: xlm-roberta-large	 Pattern: peribahasa: {proverb}	correct: 19, incorrect: 322, total: 341	correct %: 0.05571847507331378
+####
+ Model name: xlm-roberta-large	 Pattern: lengkapi peribahasa ini: {proverb}	correct: 20, incorrect: 321, total: 341	correct %: 0.05865102639296188
+####
+ Model name: xlm-roberta-large	 Pattern: selesaikan peribahasa ini: {proverb}	correct: 18, incorrect: 323, total: 341	correct %: 0.05278592375366569
+####
+ Model name: xlm-roberta-large	 Pattern: apa yang hilang di akhir peribahasa ini: {proverb}	correct: 21, incorrect: 320, total: 341	correct %: 0.06158357771260997
+####
+ Model name: xlm-roberta-large	 Pattern: apa kata terakhir peribahasa ini: {proverb}	correct: 21, incorrect: 320, total: 341	correct %: 0.06158357771260997
+####
+ Model name: xlm-roberta-large	Language: id	Average acc %: 0.05806451612903226	Mem: 0.06744868035190615	Max acc %: 0.06158357771260997
+####

@@ -1,0 +1,16 @@
+seed: 42
+data_path: maps/dataset/
+output_path: maps/results/experiment_qa/
+lang: en
+eval_lang: en
+test_lang: [de,zh,ru,id,bn]
+train: true
+eval: true
+test: true
+load_pretrain: false 
+model_name_or_path: bigscience/mt0-base
+pattern_set: qa_exp
+num_epochs: 30
+max_length: 256
+lr: 0.0001
+batch_size: 10

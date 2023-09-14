@@ -1,0 +1,10 @@
+####
+ Model name: facebook/xglm-564M	 Pattern: Question: What does the person not mean by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 167, incorrect: 167, total: 334	correct %: 0.5
+####
+ Model name: facebook/xglm-564M	 Group1: [101, 91], 0.5260416666666666	Group2: [66, 76], 0.4647887323943662	Mem frac: 0.4251497005988024####
+ Model name: facebook/xglm-564M	Language: zh	Average acc %: 0.5	Max acc %: 0.5
+####

@@ -1,0 +1,10 @@
+####
+ Model name: xlm-roberta-large	 Pattern: Question: Pick the opposite answer to what the person means by the proverb.
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 168, incorrect: 166, total: 334	correct %: 0.5029940119760479
+####
+ Model name: xlm-roberta-large	 Group1: [94, 98], 0.4895833333333333	Group2: [74, 68], 0.5211267605633803	Mem frac: 0.4251497005988024####
+ Model name: xlm-roberta-large	Language: zh	Average acc %: 0.5029940119760479	Max acc %: 0.5029940119760479
+####

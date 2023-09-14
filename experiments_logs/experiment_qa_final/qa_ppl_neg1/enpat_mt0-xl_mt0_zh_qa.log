@@ -1,0 +1,10 @@
+####
+ Model name: bigscience/mt0-xl	 Pattern: Question: Which answer is contrary to what the person means by the proverb?
+Proverb:'{proverb}'
+Context: {conversation}
+Choices: {answers}
+Answer:	correct: 177, incorrect: 157, total: 334	correct %: 0.5299401197604791
+####
+ Model name: bigscience/mt0-xl	 Group1: [110, 82], 0.5729166666666666	Group2: [67, 75], 0.47183098591549294	Mem frac: 0.4251497005988024####
+ Model name: bigscience/mt0-xl	Language: zh	Average acc %: 0.5299401197604791	Max acc %: 0.5299401197604791
+####
