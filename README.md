@@ -1,10 +1,14 @@
 # Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings 
+<p  align="center">
+  <img src='logo.png' width='200'>
+</p>
 
 This repository contains our code for experiments and experiment logs.
 
-Our paper is currently under review, we will release the dataset at a later time.
-
-🗺️ If you would like to access to the dataset, please don't hesitate to email us at:
+To access the data, please fill the form [here](https://forms.gle/rJLYcSvD5MooRowe6).
+A link to our dataset will show automatically after submit the form.
+ 
+If you encounter any issues or have suggestions, please do not hesitate to email us at:
 chen.liu AT tu-darmstadt DOT de
 
 
@@ -45,7 +49,7 @@ To add models, checkout the `model_collection.py`.
 To change prompt patterns, checkout the `patterns.py`.
 
 ## Citation
-If you find this repository helpful, feel free to cite the following paper:
+If you find this repository helpful, consider to cite the following paper:
 
 ```
 @misc{liu2023multilingual,
