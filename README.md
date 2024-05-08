@@ -52,12 +52,19 @@ To change prompt patterns, checkout the `patterns.py`.
 If you find this repository helpful, consider to cite the following paper:
 
 ```
-@misc{liu2023multilingual,
-      title={Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings}, 
-      author={Chen Cecilia Liu and Fajri Koto and Timothy Baldwin and Iryna Gurevych},
-      year={2023},
-      eprint={2309.08591},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{liu2023multilingual,
+  author       = {Chen Cecilia Liu and
+                  Fajri Koto and
+                  Timothy Baldwin and
+                  Iryna Gurevych},
+  title        = {Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation
+                  into Multicultural Proverbs and Sayings},
+  journal      = {CoRR},
+  volume       = {abs/2309.08591},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2309.08591},
+  doi          = {10.48550/ARXIV.2309.08591},
+  eprinttype    = {arXiv},
+  eprint       = {2309.08591}
 }
 ```
