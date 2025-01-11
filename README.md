@@ -52,19 +52,22 @@ To change prompt patterns, checkout the `patterns.py`.
 If you find this repository helpful, consider to cite the following paper:
 
 ```
-@article{liu2023multilingual,
-  author       = {Chen Cecilia Liu and
-                  Fajri Koto and
-                  Timothy Baldwin and
-                  Iryna Gurevych},
-  title        = {Are Multilingual LLMs Culturally-Diverse Reasoners? An Investigation
-                  into Multicultural Proverbs and Sayings},
-  journal      = {CoRR},
-  volume       = {abs/2309.08591},
-  year         = {2023},
-  url          = {https://doi.org/10.48550/arXiv.2309.08591},
-  doi          = {10.48550/ARXIV.2309.08591},
-  eprinttype    = {arXiv},
-  eprint       = {2309.08591}
+@inproceedings{liu-etal-2024-multilingual,
+    title = "Are Multilingual {LLM}s Culturally-Diverse Reasoners? An Investigation into Multicultural Proverbs and Sayings",
+    author = "Liu, Chen  and
+      Koto, Fajri  and
+      Baldwin, Timothy  and
+      Gurevych, Iryna",
+    editor = "Duh, Kevin  and
+      Gomez, Helena  and
+      Bethard, Steven",
+    booktitle = "Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.naacl-long.112/",
+    doi = "10.18653/v1/2024.naacl-long.112",
+    pages = "2016--2039"
 }
 ```
